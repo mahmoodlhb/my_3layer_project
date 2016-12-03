@@ -51,6 +51,12 @@
     <Compile Include="barname_haftegi.Designer.cs">
       <DependentUpon>barname_haftegi.cs</DependentUpon>
     </Compile>
+    <Compile Include="deletuser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="deletuser.Designer.cs">
+      <DependentUpon>deletuser.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -73,6 +79,9 @@
     </Compile>
     <EmbeddedResource Include="barname_haftegi.resx">
       <DependentUpon>barname_haftegi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="deletuser.resx">
+      <DependentUpon>deletuser.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
