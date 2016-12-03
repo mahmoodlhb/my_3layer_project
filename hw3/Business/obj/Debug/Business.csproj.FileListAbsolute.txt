@@ -5,10 +5,3 @@ C:\Users\mahmoodlhb\documents\visual studio 2013\Projects\hw3\Business\bin\Debug
 C:\Users\mahmoodlhb\documents\visual studio 2013\Projects\hw3\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
 C:\Users\mahmoodlhb\documents\visual studio 2013\Projects\hw3\Business\obj\Debug\Business.dll
 C:\Users\mahmoodlhb\documents\visual studio 2013\Projects\hw3\Business\obj\Debug\Business.pdb
-C:\Users\mahmoodlhb\Desktop\gholi\my_3layer_project\hw3\Business\bin\Debug\Business.dll
-C:\Users\mahmoodlhb\Desktop\gholi\my_3layer_project\hw3\Business\bin\Debug\Business.pdb
-C:\Users\mahmoodlhb\Desktop\gholi\my_3layer_project\hw3\Business\bin\Debug\DataAccess.dll
-C:\Users\mahmoodlhb\Desktop\gholi\my_3layer_project\hw3\Business\bin\Debug\DataAccess.pdb
-C:\Users\mahmoodlhb\Desktop\gholi\my_3layer_project\hw3\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
-C:\Users\mahmoodlhb\Desktop\gholi\my_3layer_project\hw3\Business\obj\Debug\Business.dll
-C:\Users\mahmoodlhb\Desktop\gholi\my_3layer_project\hw3\Business\obj\Debug\Business.pdb
