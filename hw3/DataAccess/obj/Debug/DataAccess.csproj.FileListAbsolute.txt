@@ -3,3 +3,8 @@ C:\Users\mahmoodlhb\documents\visual studio 2013\Projects\hw3\DataAccess\bin\Deb
 C:\Users\mahmoodlhb\documents\visual studio 2013\Projects\hw3\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
 C:\Users\mahmoodlhb\documents\visual studio 2013\Projects\hw3\DataAccess\obj\Debug\DataAccess.dll
 C:\Users\mahmoodlhb\documents\visual studio 2013\Projects\hw3\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\mahmoodlhb\Desktop\gholi\my_3layer_project\hw3\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\mahmoodlhb\Desktop\gholi\my_3layer_project\hw3\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\mahmoodlhb\Desktop\gholi\my_3layer_project\hw3\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\mahmoodlhb\Desktop\gholi\my_3layer_project\hw3\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\mahmoodlhb\Desktop\gholi\my_3layer_project\hw3\DataAccess\obj\Debug\DataAccess.pdb

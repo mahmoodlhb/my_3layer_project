@@ -34,6 +34,7 @@
             this.txtpass = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.btnregister = new System.Windows.Forms.Button();
+            this.btndel = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -91,11 +92,22 @@
             this.btnregister.UseVisualStyleBackColor = true;
             this.btnregister.Click += new System.EventHandler(this.button2_Click);
             // 
+            // btndel
+            // 
+            this.btndel.Location = new System.Drawing.Point(123, 275);
+            this.btndel.Name = "btndel";
+            this.btndel.Size = new System.Drawing.Size(75, 23);
+            this.btndel.TabIndex = 6;
+            this.btndel.Text = "حذف کاربر";
+            this.btndel.UseVisualStyleBackColor = true;
+            this.btndel.Click += new System.EventHandler(this.btndel_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(322, 339);
+            this.Controls.Add(this.btndel);
             this.Controls.Add(this.btnregister);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.txtpass);
@@ -118,6 +130,7 @@
         private System.Windows.Forms.TextBox txtpass;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button btnregister;
+        private System.Windows.Forms.Button btndel;
 
 
     }
