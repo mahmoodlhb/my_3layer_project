@@ -60,7 +60,7 @@ namespace hw3
 
         private void btndel_Click(object sender, EventArgs e)
         {
-            new deletuser().Show();
+            new deluser().Show();
         }
 
         
