@@ -15,7 +15,7 @@ namespace Business
         {
             
             base.ConnectToDatabase();
-            string quary = "DELETE from Tablevahed where studentId=" + studentId + " and password=" + password;
+            string quary = "DELETE from Student where studentId=" + studentId + " and password=" + password;
             DataTable dtbl = base.select(quary);
             base.DisconnectFromDatabase();
             return;
